@@ -1,0 +1,17 @@
+{
+  "name": "mt1-prctical",
+  "version": "1.0.0",
+  "description": "Products REST API for Backend Mid-Term 1 Practical Assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
